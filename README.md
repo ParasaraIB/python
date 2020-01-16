@@ -5,4 +5,5 @@ Several examples of the simple practical use of python, the correct orders to le
 3) list-manipulation.py
 4) functions.py
 5) methods.py
-6) Open package.txt to learn about packages installation in Python pip
+6) Open package.txt to learn about packages installation in Python pip (Sublime Text 3)
+7) numpy.py
