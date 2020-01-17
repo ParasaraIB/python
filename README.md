@@ -8,3 +8,4 @@ Several examples of the simple practical use of python, the correct orders to le
 6) Open package.txt to learn about packages installation in Python pip (Sublime Text 3)
 7) numpy.py
 8) 2d-numpy-arrays.py
+9) numpy-basic-statistics.py
