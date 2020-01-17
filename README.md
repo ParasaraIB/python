@@ -1,5 +1,5 @@
 # python-basics
-Several examples of the simple practical use of python, the correct orders to lesson the code is:
+Several examples of the simple practical use of python, the correct orders to learn the code is:
 1) python-as-a-calculator.py
 2) data-type-integration.py
 3) list-manipulation.py
