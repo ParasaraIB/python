@@ -23,7 +23,11 @@ gdp_cap = np_gapminder[:,6]
 plt.plot(gdp_cap, life_exp)
 # display the plot
 plt.show()
+# clean up the plot
+plt.clf()
 # make a scatter plot of gdp_cap on the x-axis and life_exp on the y-axis
 plt.scatter(gdp_cap, life_exp)
 # display the plot
 plt.show()
+# clean up the plot
+plt.clf()
