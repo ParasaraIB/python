@@ -9,3 +9,4 @@ How to Install some usefull packages for Data Science:
 4) Type 'pip3 instal matplotlib' without quotation mark to install matplotlib package
 5) Type 'pip3 install scipy' without quotation mark to install scipy package
 6) Type 'pip3 install sklearn' without quotation mark to install scikit-learn package
+7) Type 'pip3 install pandas' without quotation mark to install pandas package
