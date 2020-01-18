@@ -11,8 +11,8 @@ import numpy as np
 # import matplotlib
 import matplotlib.pyplot as plt
 # load the data
-import pandas
-gapminder = pandas.read_csv('gapminder.csv')
+import pandas as pd
+gapminder = pd.read_csv('gapminder.csv')
 np_gapminder = np.array(gapminder)
 # separate each attribute
 country = np_gapminder[:,1]
@@ -24,7 +24,7 @@ plt.hist(life_exp, bins = 15)
 plt.show()
 plt.clf()
 # load life_exp data 1950
-life_exp1950 = np.array(pandas.read_csv('life_exp1950.csv'))
+life_exp1950 = np.array(pd.read_csv('life_exp1950.csv'))
 plt.hist(life_exp1950, bins = 15)
 plt.show()
 plt.clf()
