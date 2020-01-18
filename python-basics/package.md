@@ -2,6 +2,9 @@ How to Install Sublime Text3 and its customization:
 1) Go to https://www.youtube.com/watch?v=YYXdXT2l-Gg&t=611s
 2) Go to https://www.youtube.com/watch?v=xFciV6Ew5r4
 
+How to Install Visual Code Studio and its customization:
+1) Go to https://www.youtube.com/watch?v=-nh9rCzPJ20
+
 How to Install some usefull packages for Data Science:
 1) Open cmd (Windows) or Terminal (Mac)
 2) Type 'python3 get-pip.py' without quotation mark to install the newest version of pip
