@@ -1,4 +1,4 @@
-# Dictionaries
+# === Motivation for dictionaries ===
 
 # definition of countries and capital
 countries = ['japan', 'korea', 'china', 'iran']
@@ -7,14 +7,23 @@ capitals = ['tokyo', 'seoul', 'beijing', 'teheran']
 ind_chn = countries.index('china')
 # print out the capital of china
 print(capitals[ind_chn])
+
+# === Create dictionary ===
+
 # create dictionaries from string in countries and capitals
 asia = {'japan':'tokyo', 'korea':'seoul', 'china':'beijing', 'iran':'teheran'}
 # print asia
 print(asia)
+
+# === Access dictionary ===
+
 # print the keys in asia
 print(asia.keys())
 # print out the value that belongs to key 'iran'
 print(asia['iran'])
+
+# === Dictionary Manipulation (1) ===
+
 # add india to asia
 asia['india'] = 'new delhi'
 # print out india in asia to check it is successfully appended into the dictionary
@@ -23,6 +32,9 @@ print('india' in asia)
 asia['indonesia'] = 'jakarta'
 # print asia
 print(asia)
+
+# === Dictionary Manipulation (2) ===
+
 # definition of dictionary
 europe = {'hungary':'london', 
 'finland':'helsinki', 
@@ -36,6 +48,9 @@ europe['hungary'] = 'budapest'
 del(europe['canada'])
 # print europe
 print(europe)
+
+# === Dictionariception ===
+
 # dictionary of dictionaries
 europe = {'hungary': {'capital':'budapest', 'population':9.95}, 
 'finland':{'capital':'helsinki', 'population':5.23},
