@@ -7,3 +7,4 @@ Intermediate application of python in Data Science. The correct orders to learn 
 5) logic-flow.py
 6) control-flow.py
 7) filtering-pandas-DF.py
+8) looping.py
