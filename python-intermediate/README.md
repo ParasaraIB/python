@@ -5,3 +5,4 @@ Intermediate application of python in Data Science. The correct orders to learn 
 3) customizations.py
 4) dictionaries.py
 5) logic-flow.py
+6) control-flow.py
