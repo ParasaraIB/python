@@ -10,3 +10,5 @@ Intermediate application of python in Data Science. The correct orders to learn 
 8) filtering-pandas-DF.py
 9) looping.py
 10) looping-ds.py
+11) Read hacker-statistics.md
+12) hacker-statistics.py
