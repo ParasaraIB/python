@@ -9,3 +9,4 @@ The use of python in creating a user-defined function. The correct orders to lea
 7) case-study-w-arguments.py
 8) lambda-functions.py
 9) error-handling.py
+10) case-study-w-lambda-n-eh.py
