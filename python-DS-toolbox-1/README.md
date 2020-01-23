@@ -5,3 +5,4 @@ The use of python in creating a user-defined function. The correct orders to lea
 3) case-study-1.py
 4) scope.py
 5) nested-functions.py
+6) default-n-flexible-arguments.py
