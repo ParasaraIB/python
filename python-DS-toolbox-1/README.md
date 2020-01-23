@@ -7,3 +7,4 @@ The use of python in creating a user-defined function. The correct orders to lea
 5) nested-functions.py
 6) default-n-flexible-arguments.py
 7) case-study-w-arguments.py
+8) lambda-functions.py
