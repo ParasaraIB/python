@@ -3,5 +3,5 @@ The case study is about simulating Empire State Building games. It's quite like 
 1) if the dice shows the number of 1 and 2, the player has to move one step down.
 2) if the dice shows the number of 3, 4, and 5, the player has to move one step up.
 3) if the dice shows the number of 6, then the player have to re-roll the dice and the step to be taken is 6 plus the number that is shown by the subsequent dice-shaking.
-To make a better representation of the real situation, let's say that the odds of falling down caused by clumsiness is 1.00%. After 500 times of simulation (random walk) Calculate the chance of getting 60 steps high or more!
+To make a better representation of the real situation, let's say that the odds of falling down caused by clumsiness is 1.00%. After 500 times of simulation (random walk), calculate the chance of getting 60 steps high or more! Remember you can't go below step 0.
 *random walk is a series of random step.
