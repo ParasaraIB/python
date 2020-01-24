@@ -4,3 +4,4 @@ Python for data science:
 2) import-os
 3) python-intermediate
 4) python-DS-toolbox-1
+5) python-DS-toolbox-2
