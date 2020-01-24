@@ -5,3 +5,4 @@ The chronological orders to learn this code:
 3) chunk-load.py
 4) list-comprehensions.py
 5) advanced-comprehensions.py
+6) generator-expressions.py
