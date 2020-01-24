@@ -4,3 +4,4 @@ The chronological orders to learn this code:
 2) iterators.py
 3) chunk-load.py
 4) list-comprehensions.py
+5) advanced-comprehensions.py
