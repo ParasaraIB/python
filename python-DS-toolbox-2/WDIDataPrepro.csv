@@ -1,0 +1,18 @@
+Country Name,Country Code,Indicator Name,Indicator Code,Year,Values
+Arab World,ARB,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,1960,134.7723405
+Arab World,ARB,Age dependency ratio (% of working-age population),SP.POP.DPND,1960,88.06110988
+Arab World,ARB,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,1960,6.591950993
+Arab World,ARB,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,1960,81.32418639
+Arab World,ARB,Arms exports (SIPRI trend indicator values),MS.MIL.XPRT.KD,1960,3000000
+Arab World,ARB,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,1960,539000000
+Arab World,ARB,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,1960,47.79007624
+Arab World,ARB,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,1960,0.645735873
+Arab World,ARB,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,1960,5.041291754
+Arab World,ARB,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1960,50539.80274
+Arab World,ARB,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,1960,4.726981388
+Arab World,ARB,"Death rate, crude (per 1,000 people)",SP.DYN.CDRT.IN,1960,20.16535716
+Arab World,ARB,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1960,6.97725613
+Arab World,ARB,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,1960,0.61670057
+Arab World,ARB,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,1960,1.927301449
+Arab World,ARB,International migrant stock (% of population),SM.POP.TOTL.ZS,1960,2.990637128
+Arab World,ARB,"International migrant stock, total",SM.POP.TOTL,1960,3324685
