@@ -58,3 +58,8 @@ print([True, 1, 2] + [3, 4, False])
 print(np_height_in[9])
 # print out sub-array of np_height_in: index 1 to 5, including index 5
 print(np_height_in[1:6])
+
+# Determine the correlation
+
+# print out the correlation between heights and weights
+print('Correlation: ' + str(np.corrcoef((np_height_m), np_weight_kg)))
