@@ -10,7 +10,18 @@ print(type(np_football))
 
 # BMI Calculator
 
-height_in = [74, 74, 72, 72, 73, 69, 69, 71, 76, 71]
+# import file directory
+import os
+# get information about current directory
+print(os.getcwd())
+# open directory in which the data is stored
+os.chdir(r'D:\Data Science\Data Camp\Python Basic')
+# import pandas
+import pandas as pd
+# import baseball data
+baseball = pd.read_csv('baseball.csv')
+# get height data
+height_in = baseball.iloc[:,3]
 # import numpy package as np
 import numpy as np
 # create a numpy array from height_in
@@ -19,7 +30,7 @@ np_height_in = np.array(height_in)
 np_height_m = np.array(height_in) * 0.0254
 # result
 print(np_height_m)
-weight_lb = [180, 215, 210, 210, 188, 176, 209, 200, 231, 180]
+weight_lb = baseball.iloc[:,4]
 # create array from weight_lb to weight_kg
 np_weight_kg = np.array(weight_lb) * 0.453592
 # calculate BMI
