@@ -13,3 +13,4 @@
 5) Type 'pip3 install scipy' without quotation mark to install scipy package
 6) Type 'pip3 install sklearn' without quotation mark to install scikit-learn package
 7) Type 'pip3 install pandas' without quotation mark to install pandas package
+8) Type 'pip3 install xlrd' withoit quotation mark to install xlrd
