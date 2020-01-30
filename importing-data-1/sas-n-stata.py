@@ -1,10 +1,10 @@
 # === Importing sas7bdat package ===
 
-
+# import file directory
 import os
-
+# get information about current directory
 print(os.getcwd())
-
+# open directory in which the data is stored
 os.chdir(r'D:\Data Science\Data Camp\Importing Data')
 # import sas7bdat package
 from sas7bdat import SAS7BDAT
