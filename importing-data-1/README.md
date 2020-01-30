@@ -6,3 +6,4 @@ The appropriate orders to learn the code are:
 4) hdf5-file.py
 5) mat-files.py
 6) relational-database.py
+7) querying.py
